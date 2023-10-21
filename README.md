@@ -1,17 +1,22 @@
 # Web-Servlet-Project
-#Author: #I #(Md.Mazharul #Islam) & #[Arham Ahmed Adil](https://github.com/marhamaa)
-#[ProjectVideo](https://youtu.be/j6jQyXXqHB8?si=ypC674q_TBZNl8L6)
+## Author:  I  (Md.Mazharul Islam) & [Arham Ahmed Adil](https://github.com/marhamaa)
+
+## [ProjectVideo](https://youtu.be/j6jQyXXqHB8?si=ypC674q_TBZNl8L6)
 
 ##Requiremnts
+
 .IDE - Ecilipse
+
 .Server - Apache Tomcat any update version
+
 .Language - Java Servlet
+
 .Frontend - HTML & CSS
 
-##![CodeView](Servlet-images/1.jpg)
+## ![CodeView](Servlet-images/1.jpg)
 
 
-##Student-Profile
+## Student-Profile
 
 ###![1.SignIn](Servlet-images/2.jpg)
 
