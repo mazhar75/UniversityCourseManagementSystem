@@ -3,7 +3,7 @@
 
 ## [ProjectVideo](https://youtu.be/j6jQyXXqHB8?si=ypC674q_TBZNl8L6)
 
-##Requiremnts
+### Requiremnts
 
 .IDE - Ecilipse
 
@@ -13,7 +13,7 @@
 
 .Frontend - HTML & CSS
 
-## ![CodeView](Servlet-images/1.jpg)
+#### ![CodeView](Servlet-images/1.jpg)
 
 
 ## Student-Profile
