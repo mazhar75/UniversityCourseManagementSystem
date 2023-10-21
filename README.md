@@ -16,7 +16,7 @@
 #### ![CodeView](Servlet-images/1.jpg)
 
 
-## Student-Profile
+### Student-Profile
 
 ###![1.SignIn](Servlet-images/2.jpg)
 
@@ -32,7 +32,7 @@
 
 ###![7.AfterRegistered](Servlet-images/9.jpg)
 
-##Teacher-Profile
+### Teacher-Profile
 
 ###![1.SignIn](Servlet-images/10.jpg)
 
@@ -40,7 +40,7 @@
 
 ###![4.CourseWiseStudentList](Servlet-images/12.jpg)
 
-##Admins
+### Admins
 
 ###![1.SignIn](Servlet-images/13.jpg)
 
