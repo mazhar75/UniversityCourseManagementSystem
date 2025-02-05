@@ -1,57 +1,117 @@
-# Web-Servlet-Project
-## Author:  I  (Md.Mazharul Islam) & [Arham Ahmed Adil](https://github.com/marhamaa)
+# Web Servlet Project
 
-## [ProjectVideo](https://youtu.be/j6jQyXXqHB8?si=ypC674q_TBZNl8L6)
+## Authors
+- **Md. Mazharul Islam**  
+- **[Arham Ahmed Adil](https://github.com/marhamaa)**
 
-### Requiremnts
+## [Project Video](https://youtu.be/j6jQyXXqHB8?si=ypC674q_TBZNl8L6)
 
-.IDE - Ecilipse
+---
 
-.Server - Apache Tomcat any update version
+## Requirements
+- **IDE:** Eclipse
+- **Server:** Apache Tomcat (any updated version)
+- **Language:** Java Servlet
+- **Frontend:** HTML & CSS
 
-.Language - Java Servlet
+---
 
-.Frontend - HTML & CSS
+## Project Overview
+This project is an online course management system developed entirely using Java Servlets and JSP. The system manages three types of users: students, teachers, and admins. Each user has unique functionalities and roles. The website is designed with a user-friendly interface, enhanced using HTML, CSS, and Bootstrap.
 
-#### ![CodeView](Servlet-images/1.jpg)
+### Features
+- Authentication for all users (student, teacher, admin) with username and password.
+- Admin functionalities:
+  - Add new courses.
+  - Assign teachers to courses.
+  - Manage student, teacher, and course lists.
+- Student functionalities:
+  - Register for new courses.
+  - View all registered courses.
+- Teacher functionalities:
+  - View registered courses.
+  - View course-wise student lists.
 
+---
 
-### Student-Profile
+## Screenshots
 
-###![1.SignIn](Servlet-images/2.jpg)
+### Code View
+![Code View](Servlet-images/1.jpg)
 
-###![2.SignUp](Servlet-images/3.jpg)
+### Student Profile
+1. **Sign In**  
+   ![Sign In](Servlet-images/2.jpg)
+2. **Sign Up**  
+   ![Sign Up](Servlet-images/3.jpg)
+3. **Profile**  
+   ![Profile](Servlet-images/5.jpg)
+4. **Registered Courses**  
+   ![Registered Courses](Servlet-images/6.jpg)
+5. **Register New Course**  
+   ![Register New Course](Servlet-images/7.jpg)
+6. **Registration Completed**  
+   ![Registration Completed](Servlet-images/8.jpg)
+7. **After Registration**  
+   ![After Registration](Servlet-images/9.jpg)
 
-###![3.Profile](Servlet-images/5.jpg)
+### Teacher Profile
+1. **Sign In**  
+   ![Sign In](Servlet-images/10.jpg)
+2. **Profile**  
+   ![Profile](Servlet-images/11.jpg)
+3. **Course-Wise Student List**  
+   ![Course-Wise Student List](Servlet-images/12.jpg)
 
-###![4.RegisteredCourse](Servlet-images/6.jpg)
+### Admin Profile
+1. **Sign In**  
+   ![Sign In](Servlet-images/13.jpg)
+2. **Profile**  
+   ![Profile](Servlet-images/14.jpg)
+3. **Admin List**  
+   ![Admin List](Servlet-images/15.jpg)
+4. **Student List**  
+   ![Student List](Servlet-images/17.jpg)
+5. **Course List**  
+   ![Course List](Servlet-images/18.jpg)
+6. **Add New Course**  
+   ![Add New Course](Servlet-images/19.jpg)
+7. **Register New Teacher**  
+   ![Register New Teacher](Servlet-images/20.jpg)
 
-###![5.RegisterNewCourse](Servlet-images/7.jpg)
+---
 
-###![6.Done](Servlet-images/8.jpg)
+## Objectives
+The project was completed as part of **CSE-446 Web Engineering Lab (Lab 3: Servlet Project)** with the following objectives:
 
-###![7.AfterRegistered](Servlet-images/9.jpg)
+1. Develop a website entirely using Servlet and JSP.
+2. Simulate the functionalities of an online course management system.
+3. Enhance the website's interface using Bootstrap or similar JS frameworks.
+4. Integrate a backend database (MySQL or NoSQL) for dynamic data storage and management.
 
-### Teacher-Profile
+### Functional Requirements
+- **R-1:** Handle three user roles: student, teacher, admin.
+- **R-2:** Authenticate users with username and password.
+- **R-3:** Allow admins to add courses and assign teachers to courses.
+- **R-4:** Enable students to register for courses and view their registered courses.
+- **R-5:** Allow teachers to view their courses and access student lists for each course.
 
-###![1.SignIn](Servlet-images/10.jpg)
+---
 
-###![2.Profile](Servlet-images/11.jpg)
+## Evaluation Criteria
+The project was evaluated based on the following criteria:
+- **Requirement Fulfillment:** 5 x 5 = 25 marks
+- **Design & Aesthetics:** 10 marks
+- **Code Documentation:** 5 marks
+- **Q&A During Showcasing:** 10 marks
 
-###![4.CourseWiseStudentList](Servlet-images/12.jpg)
+**Total Marks:** 50
 
-### Admins
+---
 
-###![1.SignIn](Servlet-images/13.jpg)
+## Submission
+The project was showcased to the instructor on a group basis, where all members contributed equally. A rigorous Q&A session was conducted during the showcasing, and all members were expected to answer questions related to their contributions.
 
-###![2.Profile](Servlet-images/14.jpg)
+---
 
-###![3.Adminlist](Servlet-images/15.jpg)
-
-###![4.StudentList](Servlet-images/17.jpg)
-
-###![5.CourseList](Servlet-images/18.jpg)
-
-###![6.EnterNewCourse](Servlet-images/19.jpg)
-
-###![7.RegisterNewTeacher](Servlet-images/20.jpg)
+**Markdown Source:** You can download or copy this text for use in any Markdown-supported platform.
